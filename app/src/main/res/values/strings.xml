@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resources App</string>
+    <string name="user_name_label">User name</string>
+    <string name="user_name_message_format">Hi %1$s</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_go_to_details">Go to details</string>
+    <string name="i_m_the_details">I\'m the details</string>
+</resources>

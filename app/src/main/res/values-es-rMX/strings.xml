@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Recursos</string>
+    <string name="user_name_label">Nombre de Usuario</string>
+    <string name="user_name_message_format">Que onda, %1$s</string>
+    <string name="button_submit">Enviar</string>
+</resources>
